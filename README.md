@@ -18,7 +18,7 @@ Power BI • Excel • SQL • MySQL • Pandas
 Web Technologies
 HTML • CSS
 Tools
-Git • GitHub • VS Code • Jupyter Notebook
+Git • GitHub • VS Code 
 ---
 📌 Featured Projects
 - 📊 E-Commerce Sales Analysis – Power BI
@@ -35,5 +35,25 @@ Git • GitHub • VS Code • Jupyter Notebook
 🤝 Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/safiya-khatoon-793075386]
 - 🐙 GitHub: [https://github.com/mohammadsafiyakhatoon-lgtm]
+---
+Technical Skills
+1. Programming Languages
+- Python
+- C
+2. Database
+- SQL
+- MySQL
+3. Data Analytics
+- Microsoft Excel
+- Power BI
+- Data Analysis
+- Data Visualization
+4. Web Technologies
+- HTML
+- CSS
+5. Tools
+- Git
+- GitHub
+- Visual Studio Code
 ---
 ⭐ Thanks for visiting my profile! Keep learning, keep growing. 🌸
