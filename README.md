@@ -20,6 +20,22 @@ HTML • CSS
 Tools
 Git • GitHub • VS Code 
 ---
+🛠️ Technologies
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 📌 Featured Projects
 - 📊 E-Commerce Sales Analysis – Power BI
 - 📦 Supply Chain Analysis – Power BI
@@ -35,25 +51,5 @@ Git • GitHub • VS Code
 🤝 Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/safiya-khatoon-793075386]
 - 🐙 GitHub: [https://github.com/mohammadsafiyakhatoon-lgtm]
----
-Technical Skills
-1. Programming Languages
-- Python
-- C
-2. Database
-- SQL
-- MySQL
-3. Data Analytics
-- Microsoft Excel
-- Power BI
-- Data Analysis
-- Data Visualization
-4. Web Technologies
-- HTML
-- CSS
-5. Tools
-- Git
-- GitHub
-- Visual Studio Code
 ---
 ⭐ Thanks for visiting my profile! Keep learning, keep growing. 🌸
